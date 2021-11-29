@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Simone/CLionProjects/BreakthuV1.0/main.cpp
+iostream
+-
+./search_engine.h
+C:/Users/Simone/CLionProjects/BreakthuV1.0/search_engine.h
+cstring
+-
+chrono
+-
+string
+-
+
+C:/Users/Simone/CLionProjects/BreakthuV1.0/search_engine.h
+iostream
+-
+cstdint
+-
+math.h
+-
+bitset
+-
+list
+-
+cstdlib
+-
+map
+-
+exception
+-
+random
+-
+
