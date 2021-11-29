@@ -1,0 +1,21 @@
+amicalita
+affetto	aiuto	amici	amore	animale	aroma	bacio	bambini	contentezza	cortesia	cucciolo	dando	divertimento	emozioni positive	escursioni	fiducia	giocattolo	gioia	guarigione	infantile	messaggi	musica	sentire	simpatia	sorpresa	suono	terra	traguardo	turismo
+coscienziosita
+agricoltura	asta	bancario	business	casa	codice	compito	economia	esercizio	forma e dimensione	igiene	meteo	militare	negoziare	occhialini	occupazione	pianificazione	politica	programma	programmazione	rimborso	saggistica	salario	scienza	tassi	tecnologia	sport
+stabilita
+mangiare	movimento	oceano	pianta	rurale	scolare	scolastico	universitari	vela	acqua	nave	riposo
+estroversione
+abito	allegria	arrivando	aspetto	atteggiamento	attraente	autorizzare	calore	cellulare	dominante	esotico	estate	femminile	forza	fuoco	giornalismo	indipendenza	internet	leader	mattina	musicale	ottimismo	pantaloni	parlando	pattino	ponte	prezioso	shopping	social media	tempo	vacanza	viaggi	bellezza
+introversione
+ascoltare	eroico	lettura	lussuria	maschile	mobili	orgoglio	regina	ricco	supereroe	taxi	tessuto	testo	timidezza	anonimato
+nevroticismo
+aggressione	anticipazione	arma	carcere	confusione	convoglio	debolezza	delusione	dolore	emergenza medica	emozioni negative	esasperazione	influenza	irritabilità	lesioni	morte	mostro	nervosismo	orrore	rabbia	rumore	scarsa	sofferenza	temere	terrorismo	tristezza	uccidere	violenza	vuoto
+apertura
+dei	divini	liquido	religione	viale	alcol	arte	ballare	beni immobili	corpo	corsa	cucinare	famiglia	festa	giocare	leggenda	ridicolo	ristorante
+sgradevolezza
+bruttezza	combattere	competizione	crimine	disgusto	freddo	inferno	invidia	odiare	peccato	protesta	rompendo	rubare	scorza	tormentare
+chiusura
+antica	colletto bianco	filosofia	gerarchia	restrizione	surplus	ufficio	medievale	operaio	ufficio
+negligenza
+assonnato	trascuratezza	inganno
+
